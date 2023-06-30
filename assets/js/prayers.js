@@ -1,4 +1,4 @@
-fetch("https://raw.githubusercontent.com/rafaelbmateus/localcatolico-oracoes/main/prayers.json")
+fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-oracoes/main/prayers.json")
   .then((res) => {
   return res.json();
 })

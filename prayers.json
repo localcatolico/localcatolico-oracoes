@@ -1,0 +1,22 @@
+{
+  "prayers": [
+    {
+      "id": "empty-template",
+      "name": "",
+      "enabled": "false",
+      "content":[
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Oração Eucarística I",
+      "enabled": "true",
+      "content":[
+        "Abençoai nossa oferenda, ó Senhor!",
+        "Conservai a vossa Igreja sempre unida!"
+      ]
+    }
+  ]
+}

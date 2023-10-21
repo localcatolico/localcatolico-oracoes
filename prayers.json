@@ -87,7 +87,7 @@
     {
       "id": "4",
       "name": "Oração Eucarística IV",
-      "enabled": "false",
+      "enabled": "true",
       "content":[
         "O Senhor esteja convosco.",
         "<b>Ele está no meio de nós.</b>",
@@ -110,15 +110,22 @@
         "Por isso, nós vos pedimos que o mesmo Espírito Santo santifique estas oferendas, a fim de que se tornem o Corpo † e o Sangue Jesus Cristo, vosso Filho e Senhor nosso, para celebrarmos este grande mistério que ele nos deixou em sinal da eterna aliança.",
         "<b>Santificai nossa oferenda pelo Espírito.</b>",
         "Quando, pois, chegou a hora em que por vós, ó Pai, ia ser glorificado, tendo amado os seus que estavam no mundo, amou-os até o fim. Enquanto ceavam, ele tomou o pão, deu graças, e o partiu e deu a seus discípulos, dizendo:<br>TOMAI, TODOS, E COMEI: ISTO É O MEU CORPO, QUE SERÁ ENTREGUE POR VÓS.",
-        "<b></b>",
-        "",
-        "<b></b>",
-        "",
-        "<b></b>",
-        "",
-        "<b></b>",
-        "",
-        "<b></b>"
+        "Do mesmo modo, ele tomou em suas mãos o cálice com vinho, deu graças novamente e o deu a seus discípulos, dizendo:<br>TOMAI, TODOS, E BEBEI: ESTE É O CÁLICE DO MEU SANGUE, O SANGUE DA NOVA E ETERNA ALIANÇA, QUE SERÁ DERRAMADO POR VÓS E POR TODOS, PARA A REMISSÃO DOS PECADOS. FAZEI ISTO EM MEMÓRIA DE MIM.",
+        "Eis o mistério da fé!",
+        "<b>Anunciamos, Senhor, a vossa morte e proclamamos a vossa ressurreição. Vinde, Senhor Jesus!</b>",
+        "Celebrando, agora, ó Pai, a memória da nossa redenção, anunciamos a morte de Cristo e sua descida entre os mortos, proclamamos a sua ressurreição e ascensão à vossa direita e, esperando a sua vinda gloriosa, nós vos oferecemos o seu corpo e Sangue, sacrifício do vosso agrado e salvação do mundo inteiro.",
+        "<b>Recebei, ó Senhor, a nossa oferta!</b>",
+        "Olhai, com bondade, o sacrifício que destes à vossa Igreja e concedei aos que vamos participar do mesmo pão e do mesmo cálice que, reunidos pelo Espírito Santo num só corpo, nos tornemos em Cristo um sacrifício vivo para o louvor da vossa glória.",
+        "<b>Fazei de nós um sacrifício de louvor!</b>",
+        "E agora, ó Pai, lembrai-vos de todos pelos quais vos oferecemos este sacrifício: o vosso servo o papa N., o nosso bispo N., os bispos do mundo inteiro, os presbíteros e todos os ministros, os fiéis que, em torno deste altar, vos oferecem este sacrifício, o povo que vos pertence e todos aqueles que vos procuram de coração sincero.",
+        "<b>Lembrai-vos, ó Pai, dos vossos filhos!</b>",
+        "Lembrai-vos também dos que morreram na paz do vosso Cristo e de todos os mortos, dos quais só vós conhecestes a fé.",
+        "<b>A todos saciai com vossa glória!</b>",
+        "E a todos nós, vossos filhos e filhas, concedei, ó Pai de bondade, que, com a virgem Maria, mãe de Deus, com os apóstolos e todos os santos, possamos alcançar a herança eterna no vosso reino, onde, com todas as criaturas, libertas da corrupção do pecado e da morte, vos glorificaremos por Cristo, Senhor nosso.",
+        "<b>Concedei-nos o convívio dos eleitos!</b>",
+        "Por ele dais ao mundo todo bem e toda graça.",
+        "Por Cristo, com Cristo, em Cristo, a vós, Deus Pai todo poderoso, na unidade do Espírito Santo, toda a honra e toda a glória, agora e para sempre.",
+        "Amém"
       ]
     }
   ]

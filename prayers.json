@@ -53,6 +53,73 @@
         "Por Cristo, com Cristo, em Cristo, a vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda a honra e toda a glória, agora e para sempre",
         "<b>Amém</b>"
       ]
+    },
+    {
+      "id": "3",
+      "name": "Oração Eucarística III",
+      "enabled": "true",
+      "content":[
+        "Na verdade, vós sois santo, ó Deus do universo, e tudo o que criastes proclama o vosso louvor, porque, por Jesus Cristo, vosso filho e Senhor nosso, e pela força do Espírito Santo, dais vida e santidade a todas as coisas e não cessais de reunir o vosso povo, para que vos ofereça em toda parte, do nascer ao pôr-do-sol, um sacrifício perfeito.",
+        "<b>Santificai e reuni o vosso povo!</b>",
+        "Por isso, nós vos suplicamos: santificai pelo Espírito Santo as oferendas que vos apresentamos para serem consagradas, a fim de que se tornem o Corpo † e o Sangue de Jesus Cristo, vosso Filho e Senhor nosso, que nos mandou celebrar este mistério.",
+        "<b>Santificai nossa oferenda, ó Senhor!</b>",
+        "Na noite em que ia ser entregue, ele tomou o pão, deu graças, e o partiu e deu a seus discípulos, dizendo:<br>TOMAI, TODOS, E COMEI: ISTO É O MEU CORPO, QUE SERÁ ENTREGUE POR VÓS.",
+        "Do mesmo modo, ao fim da ceia, ele tomou o cálice em suas mãos, deu graças novamente o deu a seus discípulos, dizendo:<br>TOMAI, TODOS, E BEBEI: ESTE É O CÁLICE DO MEU SANGUE, O SANGUE DA NOVA E ETERNA ALIANÇA, QUE SERÁ DERRAMADO POR VÓS E POR TODOS, PARA A REMISSÃO DOS PECADOS. FAZEI ISTO EM MEMÓRIA DE MIM.",
+        "Eis o mistério da fé!",
+        "<b>Anunciamos, Senhor, a vossa morte e proclamamos a vossa ressurreição. Vinde, Senhor Jesus!</b>",
+        "Celebrando agora, ó Pai, a memória do vosso Filho, da sua paixão que nos salva, da sua gloriosa ressurreição e da sua ascensão ao céu, e enquanto esperamos a sua nova vinda, nós vos oferecemos em ação de graças este sacrifício de vida e santidade.",
+        "<b>Recebei, ó Senhor, a nossa oferta!</b>",
+        "Olhai com bondade a oferenda da vossa Igreja, reconhecei o sacrifício que nos reconcilia convosco e concedei que, alimentando-nos com o Corpo e o Sangue do vosso Filho, sejamos repletos do Espírito Santo e nos tornemos em Cristo um só corpo e um só espírito.",
+        "<b>Fazei de nós um só corpo e um só espírito!</b>",
+        "Que ele faça de nós uma oferenda perfeita para alcançarmos a vida eterna com os vossos santos: a virgem Maria, mãe de Deus, os vossos apóstolos e mártires (santo do dia ou padroeiro) e de todos os santos, que não cessam de interceder por nós na vossa presença.",
+        "<b>Fazei de nós uma perfeita oferenda!</b>",
+        "E agora, nós vos suplicamos, ó Pai, que este sacrifício da nossa reconciliação estenda a paz e a salvação ao mundo inteiro. Confirmai na fé e na caridade a vossa Igreja, enquanto caminha neste mundo: o vosso servo o papa N., o nosso bispo N., com os bispos do mundo inteiro, o clero e todo o povo que conquistastes.",
+        "<b>Lembrai-vos, ó Pai, da vossa Igreja!</b>",
+        "Atendei as preces da vossa família, que está aqui, na vossa presença. Reuni em vós, Pai de misericórdia, todos os vossos filhos e filhas dispersos pelo mundo inteiro.",
+        "<b>Lembrai-vos, ó Pai, dos vossos filhos!</b>",
+        "Acolhei com bondade no vosso reino os nossos irmãos e irmãs que partiram desta vida e todos os que morreram na vossa amizade. Unidos a eles, esperamos também nós saciar-nos eternamente da vossa glória, por Cristo, Senhor nosso.",
+        "<b>A todos saciai com vossa glória!</b>",
+        "Por ele dais ao mundo todo bem e toda graça.",
+        "Por Cristo, com Cristo, em Cristo, a vós, Deus Pai todo poderoso, na unidade do Espírito Santo, toda a honra e toda a glória, agora e para sempre.",
+        "<b>Amém</b>"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Oração Eucarística IV",
+      "enabled": "false",
+      "content":[
+        "O Senhor esteja convosco.",
+        "<b>Ele está no meio de nós.</b>",
+        "Corações ao alto.",
+        "<b>O nosso coração está em Deus.</b>",
+        "Demos graças ao Senhor, nosso Deus.",
+        "<b>É nosso dever e nossa salvação.</b>",
+        "Na verdade, ó Pai, é nosso dever dar-vos graças, é nossa salvação dar-vos glória: só vós sois o Deus vivo e verdadeiro que existis antes de todo o tempo e permaneceis para sempre, habitando em luz inacessível. Mas, porque sois o Deus de bondade e a fonte da vida, fizestes todas as coisas para cobrir de bênçãos as vossas criaturas e a muitos alegrar com a vossa luz.",
+        "<b>Alegrai-nos, ó Pai, com a vossa luz!</b>",
+        "Eis, pois, diante de vós todos os anjos que vos servem e glorificam sem cessar, contemplando a vossa glória. Com eles, também nós e, por nossa voz, tudo o que criastes celebramos o vosso nome, cantando (dizendo) a uma só voz:",
+        "<b>Santo, santo, santo...</b>",
+        "Nós proclamamos a vossa grandeza, Pai santo, a sabedoria e o amor com que fizestes todas as coisas criastes o homem e a mulher à vossa imagem e lhes confiastes todo o universo, para que, servindo a vós, seu criador, dominassem toda criatura. E, quando pela desobediência perderam a vossa amizade, não os abandonastes ao poder da morte, mas a todos socorrestes com bondade, para que, ao procurar-vos, vos pudessem encontrar.",
+        "<b>Socorrei, com bondade, os que vos buscam!</b>",
+        "E, ainda mais, oferecestes muitas vezes aliança aos homens e às mulheres e os instruístes pelos profetas na esperança da salvação. E de tal modo, Pai santo, amastes o mundo, que, chegada a plenitude dos tempos, nos enviastes vosso próprio Filho para ser o nosso salvador.",
+        "<b>Por amor nos enviastes vosso Filho!</b>",
+        "Verdadeiro homem, concebido do Espírito Santo e nascido da virgem Maria, viveu em tudo a condição humana, menos o pecado; anunciou aos pobres a salvação, aos oprimidos, a liberdade, aos tristes, a alegria. E, para realizar o vosso plano de amor, entregou-se à morte e, ressuscitando dos mortos, venceu a morte e renovou vida.",
+        "<b>Jesus Cristo deu-nos vida por sua morte!</b>",
+        "E, a fim de não mais vivermos para nós, mas para ele, que por nós morreu e ressuscitou, enviou de vós, ó Pai, o Espírito Santo, como primeiro dom aos vossos fiéis para santificar todas as coisas, levando à plenitude a sua obra.",
+        "<b>Santificai-nos pelo dom do vosso Espírito!</b>",
+        "Por isso, nós vos pedimos que o mesmo Espírito Santo santifique estas oferendas, a fim de que se tornem o Corpo † e o Sangue Jesus Cristo, vosso Filho e Senhor nosso, para celebrarmos este grande mistério que ele nos deixou em sinal da eterna aliança.",
+        "<b>Santificai nossa oferenda pelo Espírito.</b>",
+        "Quando, pois, chegou a hora em que por vós, ó Pai, ia ser glorificado, tendo amado os seus que estavam no mundo, amou-os até o fim. Enquanto ceavam, ele tomou o pão, deu graças, e o partiu e deu a seus discípulos, dizendo:<br>TOMAI, TODOS, E COMEI: ISTO É O MEU CORPO, QUE SERÁ ENTREGUE POR VÓS.",
+        "<b></b>",
+        "",
+        "<b></b>",
+        "",
+        "<b></b>",
+        "",
+        "<b></b>",
+        "",
+        "<b></b>"
+      ]
     }
   ]
 }
